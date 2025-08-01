@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgres:14
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./data:/docker-entrypoint-initdb.d/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD_FILE: /run/secrets/db_password
+
+    secrets:
+      - db_password
+
+  adminer:
+    image: adminer:5.3.0
+    restart: always
+    ports:
+      - 8080:8080
+
+secrets:
+  db_password:
+    file: ./password.txt
+
+volumes:
+  pgdata:

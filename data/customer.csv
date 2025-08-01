@@ -1,0 +1,201 @@
+customer_id,name
+C1001,Aarav Sharma
+C1002,Aditi Singh
+C1003,Akash Verma
+C1004,Ananya Gupta
+C1005,Arjun Kumar
+C1006,Bhavana Patel
+C1007,Dhruv Malhotra
+C1008,Divya Yadav
+C1009,Gaurav Jain
+C1010,Isha Narayan
+C1011,Karanjeet Singh
+C1012,Kavita Iyer
+C1013,Lalit Kumar
+C1014,Manasi Dubey
+C1015,Mihir Reddy
+C1016,Nidhi Sharma
+C1017,Om Prakash
+C1018,Pooja Verma
+C1019,Pranav Gupta
+C1020,Priya Singh
+C1021,Rahul Kumar
+C1022,Rhea Sharma
+C1023,Rohan Gupta
+C1024,Saanvi Singh
+C1025,Sachin Tendulkar
+C1026,Sai Kumar
+C1027,Sameer Khan
+C1028,Sana Shaikh
+C1029,Shreya Dubey
+C1030,Shruti Singh
+C1031,Siddharth Malhotra
+C1032,Smita Patil
+C1033,Sneha Tripathi
+C1034,Suraj Kumar
+C1035,Tanisha Sharma
+C1036,Tarun Gupta
+C1037,Urvashi Singh
+C1038,Varun Verma
+C1039,Vijay Kumar
+C1040,Yashika Malhotra
+C1041,Aditya Verma
+C1042,Anjali Jain
+C1043,Arpit Sharma
+C1044,Chhavi Singh
+C1045,Chetan Gupta
+C1046,Damini Yadav
+C1047,Devendra Kumar
+C1048,Ekta Singh
+C1049,Farah Khan
+C1050,Gagan Malhotra
+C1051,Hansika Sharma
+C1052,Harsh Patel
+C1053,Isha Gupta
+C1054,Jagdish Kumar
+C1055,Jiya Singh
+C1056,Kalyan Varma
+C1057,Kinjal Desai
+C1058,Lokesh Sharma
+C1059,Meera Gupta
+C1060,Mukesh Ambani
+C1061,Nandini Singh
+C1062,Naveen Kumar
+C1063,Neha Sharma
+C1064,Nikhil Gupta
+C1065,Priyanka Gandhi
+C1066,Rajat Kumar
+C1067,Rashmi Singh
+C1068,Rishi Patel
+C1069,Riya Malhotra
+C1070,Ritu Sharma
+C1071,Sagar Gupta
+C1072,Saloni Singh
+C1073,Saurabh Kumar
+C1074,Seema Patel
+C1075,Shaurya Verma
+C1076,Shikha Sharma
+C1077,Shivani Gupta
+C1078,Sonali Singh
+C1079,Tanya Verma
+C1080,Vaibhav Dubey
+C1081,Anshul Sharma
+C1082,Ankita Singh
+C1083,Ayush Kumar
+C1084,Bhavya Malhotra
+C1085,Chahat Gupta
+C1086,Devesh Yadav
+C1087,Eshaan Sharma
+C1088,Garima Singh
+C1089,Hritik Kumar
+C1090,Jasmine Kaur
+C1091,Karthik Reddy
+C1092,Khushi Patel
+C1093,Lokesh Kumar
+C1094,Mahi Singh
+C1095,Mohit Sharma
+C1096,Navya Gupta
+C1097,Pankaj Verma
+C1098,Payal Singh
+C1099,Prashant Kumar
+C1100,Purvi Sharma
+C1101,Rashi Malhotra
+C1102,Reena Gupta
+C1103,Ritesh Kumar
+C1104,Sanjana Singh
+C1105,Shakti Verma
+C1106,Shubham Sharma
+C1107,Simran Gupta
+C1108,Sneha Singh
+C1109,Tanay Kumar
+C1110,Tanisha Sharma
+C1111,Ujjwal Verma
+C1112,Varsha Singh
+C1113,Vivek Sharma
+C1114,Yogesh Gupta
+C1115,Aayushmaan Khurrana
+C1116,Aditi Rao Hydari
+C1117,Amitabh Bachchan
+C1118,Anushka Sharma
+C1119,Hrithik Roshan
+C1120,Kareena Kapoor
+C1121,Mrunal Thakur
+C1122,Ranveer Singh
+C1123,Sidharth Malhotra
+C1124,Sonam Kapoor
+C1125,Vicky Kaushal
+C1126,Alia Bhatt
+C1127,Shah Rukh Khan
+C1128,Priyanka Chopra
+C1129,Ranbir Kapoor
+C1130,Deepika Padukone
+C1131,Aamir Khan
+C1132,Katrina Kaif
+C1133,Salman Khan
+C1134,Kangana Ranaut
+C1135,Akshay Kumar
+C1136,Taapsee Pannu
+C1137,Sushant Singh Rajput
+C1138,Kiara Advani
+C1139,Ayushmann Khurrana
+C1140,Shraddha Kapoor
+C1141,Varun Dhawan
+C1142,Sara Ali Khan
+C1143,Kartik Aaryan
+C1144,Kriti Sanon
+C1145,Tiger Shroff
+C1146,Ananya Panday
+C1147,Saif Ali Khan
+C1148,Kajol
+C1149,Ajay Devgn
+C1150,Kareena Kapoor Khan
+C1151,Shahid Kapoor
+C1152,Mira Rajput
+C1153,Irrfan Khan
+C1154,Vidya Balan
+C1155,Nawazuddin Siddiqui
+C1156,Radhika Apte
+C1157,Pankaj Tripathi
+C1158,Manoj Bajpayee
+C1159,Konkona Sen Sharma
+C1160,Tabu
+C1161,Rajkummar Rao
+C1162,Bhumi Pednekar
+C1163,Sanya Malhotra
+C1164,Fatima Sana Shaikh
+C1165,Dhanush
+C1166,Samantha Akkineni
+C1167,Vijay Deverakonda
+C1168,Rashmika Mandanna
+C1169,Jr NTR
+C1170,Pooja Hegde
+C1171,Mahesh Babu
+C1172,Kajal Aggarwal
+C1173,Ram Charan
+C1174,Anushka Shetty
+C1175,Allu Arjun
+C1176,Prabhas
+C1177,Nayanthara
+C1178,Suriya
+C1179,Trisha Krishnan
+C1180,Vijay Sethupathi
+C1181,Kamal Haasan
+C1182,Mohanlal
+C1183,Dulquer Salmaan
+C1184,Nivin Pauly
+C1185,Fahadh Faasil
+C1186,Prithviraj Sukumaran
+C1187,Mammootty
+C1188,Nazriya Nazim
+C1189,Tovino Thomas
+C1190,Parvathy Thiruvothu
+C1191,Yash
+C1192,Puneeth Rajkumar
+C1193,Sudeep
+C1194,Shiva Rajkumar
+C1195,Rishab Shetty
+C1196,Rakshit Shetty
+C1197,Kichcha Sudeepa
+C1198,Upendra
+C1199,Darshan
+C1200,Radhika Pandit
